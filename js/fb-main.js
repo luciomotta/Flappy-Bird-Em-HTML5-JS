@@ -27,7 +27,7 @@
 
    // Definição das vars do cano
    var pipeheight = 90;
-   var pipewidth = 52;
+   var pipewidth = 40;
    var pipes = new Array();
 
    // Definição da var de replay
